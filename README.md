@@ -1,5 +1,3 @@
-Certainly! Here's a template for your README file for the "JLoAuth" repository. You can replace the placeholders with actual content:
-
 # JLoAuth
 
 JLoAuth is a robust authentication API developed with Flask, SQLAlchemy, and Flask-JWT-Extended. It provides secure user registration, login, password reset, and token-based authentication. Use it as a foundation to enhance the security of your web applications.
